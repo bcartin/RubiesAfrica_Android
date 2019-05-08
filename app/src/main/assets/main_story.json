@@ -1,0 +1,21 @@
+{
+  "ageGroup1" : true,
+  "ageGroup2" : true,
+  "ageGroup3" : true,
+  "author" : "Titi David Oni",
+  "content" : [ "aVisitToTheOrphanage" ],
+  "coverImageUrl" : "coverpage.jpg",
+  "creativeDirector" : "Titi David Oni",
+  "demoImage1Url" : "page1.jpg",
+  "demoImage2Url" : "page2.jpg",
+  "demoImage3Url" : "page3.jpg",
+  "editor" : "Kristen Klepac",
+  "illustrator" : "Naomi Amevinya",
+  "purchased" : true,
+  "song" : "tenderness",
+  "storyId" : "aVisitToTheOrphanage",
+  "androidStoryId" : "a_visit_to_the_orphanage",
+  "summary" : "To teach the virtue of gratitude and compassion, Mrs. Okafor takes her eight year old daughter and five year old son to visit an orphanage. ",
+  "title" : "A Visit to the Orphanage",
+  "totalPages" : 29
+}
